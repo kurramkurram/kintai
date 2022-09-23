@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kintai-dev-190702-authRole",
+      "UnauthRoleArn": "arn:aws:iam::129339309716:role/amplify-kintai-dev-190702-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::129339309716:role/amplify-kintai-dev-190702-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-kintai-dev-190702-deployment",
+      "UnauthRoleName": "amplify-kintai-dev-190702-unauthRole",
+      "StackName": "amplify-kintai-dev-190702",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:129339309716:stack/amplify-kintai-dev-190702/7950dfa0-3b27-11ed-b890-0a478ea490bb",
+      "AmplifyAppId": "d2sfyxy80j2j6y"
+    },
+    "categories": {
+      "auth": {
+        "kintaib618d03d": {}
+      }
+    }
+  }
+}
