@@ -150,7 +150,7 @@ const invoke = async(name) => {
     region: "ap-northeast-1"
   })
   const input = {
-    FunctionName: "amplify-lamda-access-to-rds-via-rdsproxy",
+    FunctionName: "TODO lambdaの関数名",
     Payload: createBody(name)
   }
   const command = new InvokeCommand(input)
